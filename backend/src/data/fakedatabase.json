@@ -1,0 +1,32 @@
+[
+  {
+    "id": "431c1394-1a1d-4499-910f-7674889b06d0",
+    "name": "Abraham Ledner",
+    "phone": "189-623-3061",
+    "addressLines": [
+      "167 Mraz Meadows",
+      "Lake Dimitri",
+      "Isle of Man"
+    ]
+  },
+  {
+    "id": "ba1abada-f76a-45c9-ac1f-ee801f4ea1c6",
+    "name": "Adah Nikolaus",
+    "phone": "(804) 557-7394",
+    "addressLines": [
+      "11579 Paula Inlet",
+      "North Ericka",
+      "Croatia"
+    ]
+  },
+  {
+    "id": "e17da846-8557-4332-805e-88bcc50415a2",
+    "name": "Adaline Huels",
+    "phone": "654-627-8612",
+    "addressLines": [
+      "22510 Colin Vista",
+      "Marquardtville",
+      "British Indian Ocean Territory (Chagos Archipelago)"
+    ]
+  }
+]
